@@ -16,7 +16,9 @@ end
 
 introduction_with_language("Dan","Ember.js")
 
-
+def introduction_with_language_optional(name, language)
+  language = Ruby 
+  puts ""
 
 
 
